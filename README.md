@@ -1,5 +1,5 @@
 # HI! 👋
-####🎓Computer scientist.
+🎓Computer scientist.
 
 📘I'm studying Web development (back-end) and accessibility.
 
