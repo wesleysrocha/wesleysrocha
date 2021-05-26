@@ -1,6 +1,4 @@
 # HI! 👋
-My name is Wesley! 
-
 🎓computer scientist.
 
 📘Web development (back-end) and accessibility.
