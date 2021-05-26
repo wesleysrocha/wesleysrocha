@@ -1,5 +1,5 @@
 # HI! 👋
-🎓computer scientist.
+🎓Computer scientist.
 
 📘Web development (back-end) and accessibility.
 
