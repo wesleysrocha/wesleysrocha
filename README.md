@@ -1,7 +1,7 @@
 # HI! 👋
-🎓Computer scientist.
+####🎓Computer scientist.
 
-📘Web development (back-end) and accessibility.
+📘I'm studying Web development (back-end) and accessibility.
 
  ***"** **Acredito que como **desenvolvedor**** temos que **pensar** não somente na produção de **telas funcionais** e bonitas, mas que também sejam **fáceis** de o usuário utilizar. Englobando assim aspectos da **usabilidade e acessibilidade.** Inclusive ainda tenho muito a aprender nessa área **".*** 
  
