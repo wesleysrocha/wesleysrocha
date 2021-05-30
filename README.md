@@ -12,3 +12,5 @@
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-cb6ce6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-s-rocha/)](https://www.linkedin.com/in/wesley-s-rocha/)
 [![Gmail Badge](https://img.shields.io/badge/-wesleyrocha.it19@gmail.com-ff6d3b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyrocha.it19@gmail.com)](mailto:wesleyrocha.it19@gmail.com)
+
+ ![Snake animation](https://github.com/wesleysrocha/wesleysrocha/blob/output/github-contribution-grid-snake.svg)
