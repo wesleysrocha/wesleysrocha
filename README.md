@@ -1,5 +1,6 @@
 # HI! 👋
-![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/84814160/119600134-c9148a80-bdbc-11eb-9c9c-52204a15c4d8.png)
+![Banner](https://user-images.githubusercontent.com/84814160/123692587-61bf7f80-d82d-11eb-9eba-c429c5d6d1dc.png)
+
 
 
 🎓Computer scientist.
